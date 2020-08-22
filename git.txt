@@ -1,0 +1,6 @@
+echo "# JWT_SignUp_SignIn_UserProfile" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin20 https://github.com/pradeepdevloper1/JWT_SignUp_SignIn_UserProfile.git
+git push -u origin20 master

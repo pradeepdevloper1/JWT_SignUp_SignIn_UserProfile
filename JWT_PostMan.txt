@@ -1,0 +1,14 @@
+>npm i --save jsonwebtoken passport passport-local loadash
+
+
+http://localhost:3000/api/authenticate
+{
+		"email":"pradeepdeveloper1@gmail.com",
+		"password":"78907890"
+	}
+
+
+
+http://localhost:3000/api/userProfile
+
+ token :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjQwZDMzMWJmYTk0NTNiYTBiZmY0OGYiLCJpYXQiOjE1OTgwODQ3MTAsImV4cCI6MTU5ODA4NDgzMH0.jEKfhmuM-eHsYQPJGfSS8bXF4ndVV80LyCyLzBdLqFs
